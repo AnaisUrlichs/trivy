@@ -37,8 +37,8 @@ require (
 	github.com/open-policy-agent/opa v0.41.0
 	github.com/owenrumney/go-sarif/v2 v2.1.1
 	github.com/package-url/packageurl-go v0.1.1-0.20220203205134-d70459300c8a
-	github.com/samber/lo v1.21.0
-	github.com/stretchr/testify v1.7.2
+	github.com/samber/lo v1.31.0
+	github.com/stretchr/testify v1.8.0
 	github.com/testcontainers/testcontainers-go v0.13.0
 	github.com/tetratelabs/wazero v0.0.0-20220606011721-119b069ba23e
 	github.com/twitchtv/twirp v8.1.2+incompatible
@@ -244,7 +244,7 @@ require (
 	github.com/spf13/cobra v1.4.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/stefanberger/go-pkcs11uri v0.0.0-20201008174630-78d3cae3a980 // indirect
-	github.com/stretchr/objx v0.3.0 // indirect
+	github.com/stretchr/objx v0.4.0 // indirect
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635 // indirect
 	github.com/tidwall/gjson v1.14.1 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
