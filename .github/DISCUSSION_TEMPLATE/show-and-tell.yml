@@ -43,7 +43,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: links
+    id: info
     attributes:
       label: "Additional Information"
       description: "Please tell us more about your use case of Trivy -- anything that you would like to share 🎉"
