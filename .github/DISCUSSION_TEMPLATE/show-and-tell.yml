@@ -42,9 +42,12 @@ body:
         - label: Software licenses
     validations:
       required: false
-  - type: markdown
-    id: more
+  - type: textarea
+    id: links
     attributes:
-      value: "Please tell us more about your use case of Trivy -- anything that you would like to share 🎉"
+      label: "Additional Information"
+      description: "Please tell us more about your use case of Trivy -- anything that you would like to share 🎉"
+      value: |
+        ...
     validations:
       required: false
