@@ -76,7 +76,7 @@ require (
 	github.com/samber/lo v1.37.0
 	github.com/saracen/walker v0.1.3
 	github.com/secure-systems-lab/go-securesystemslib v0.5.0
-	github.com/sigstore/rekor v1.0.1
+	github.com/sigstore/rekor v0.7.0
 	github.com/sosedoff/gitkit v0.3.0
 	github.com/spdx/tools-golang v0.3.1-0.20230104082527-d6f58551be3f
 	github.com/spf13/cast v1.5.0
@@ -271,7 +271,7 @@ require (
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
 	github.com/liamg/iamgo v0.0.9 // indirect
 	github.com/liamg/jfather v0.0.7 // indirect
-	github.com/liamg/memoryfs v1.4.3 // indirect
+	github.com/liamg/memoryfs v1.6.0 // indirect
 	github.com/lib/pq v1.10.7 // indirect
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40 // indirect
