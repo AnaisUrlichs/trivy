@@ -37,7 +37,7 @@ require (
 	github.com/containerd/containerd v1.6.19
 	github.com/docker/docker v23.0.1+incompatible
 	github.com/docker/go-connections v0.4.0
-	github.com/fatih/color v1.14.1
+	github.com/fatih/color v1.15.0
 	github.com/go-git/go-git/v5 v5.5.2
 	github.com/go-openapi/runtime v0.25.0
 	github.com/go-openapi/strfmt v0.21.3
@@ -76,7 +76,7 @@ require (
 	github.com/samber/lo v1.37.0
 	github.com/saracen/walker v0.1.3
 	github.com/secure-systems-lab/go-securesystemslib v0.5.0
-	github.com/sigstore/rekor v1.0.1
+	github.com/sigstore/rekor v0.7.0
 	github.com/sosedoff/gitkit v0.3.0
 	github.com/spdx/tools-golang v0.3.1-0.20230104082527-d6f58551be3f
 	github.com/spf13/cast v1.5.0
