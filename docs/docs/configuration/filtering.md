@@ -381,6 +381,12 @@ Total: 9 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 4, CRITICAL: 5)
 
 </details>
 
+Additionally, it is possible to pass in rego policies to misconfiguration scans. Currently, this feature is part of the `trivy fs` scans:
+
+```
+trivy fs --security-checks config --ignore-policy ./custom-policies/ignore/basic-two.rego ./bad_iac
+```
+
 [helper]: https://github.com/aquasecurity/trivy/tree/{{ git.tag }}/pkg/result/module.go
 [policy]: https://github.com/aquasecurity/trivy/tree/{{ git.tag }}/contrib/example_policy
 
