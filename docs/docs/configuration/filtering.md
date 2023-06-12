@@ -194,7 +194,11 @@ See https://avd.aquasec.com/misconfig/avd-aws-0081
 |      Secret      |     ✓     |
 |     License      |           |
 
-Use `.trivyignore`.
+Use `.trivyignore`. 
+
+Trivy will use the `.trivyignore` file located in the directory where the trivy scan is perfomed. Otherwise, users can provide a path through the `--ignorefile` flag.
+
+Example `.trivyignore`:
 
 ```bash
 $ cat .trivyignore

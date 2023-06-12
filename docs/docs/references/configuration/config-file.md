@@ -92,7 +92,7 @@ scan:
   # Same as '--file-patterns'
   # Default is empty
   file-patterns:
-    -
+  # -
 
   # Same as '--skip-dirs'
   # Default is empty
