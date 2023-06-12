@@ -1,7 +1,8 @@
 # Config file
 
 Trivy can be customized by tweaking a `trivy.yaml` file.
-The config path can be overridden by the `--config` flag.
+Trivy will look for the file in the current directory where the scan is performed.
+The path to the file can be overwritten by the `--config` flag.
 
 An example is [here][example].
 
@@ -84,7 +85,7 @@ severity:
 ```
 
 ## Scan Options
-Available in client/server mode
+Available both in [standalone](../modes/standalone.md) and in [client/server mode](../modes/client-server.md)
 
 ```yaml
 scan:
