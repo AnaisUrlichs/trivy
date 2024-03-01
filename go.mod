@@ -26,7 +26,7 @@ require (
 	github.com/aquasecurity/trivy-java-db v0.0.0-20240109071736-184bd7481d48
 	github.com/aquasecurity/trivy-kubernetes v0.6.3
 	github.com/aquasecurity/trivy-policies v0.9.1-0.20240212232053-c450017d5624
-	github.com/aws/aws-sdk-go-v2 v1.24.1
+	github.com/aws/aws-sdk-go-v2 v1.25.2
 	github.com/aws/aws-sdk-go-v2/config v1.26.6
 	github.com/aws/aws-sdk-go-v2/credentials v1.16.16
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.15.15
@@ -123,7 +123,7 @@ require (
 	github.com/alecthomas/chroma v0.10.0
 	github.com/antchfx/htmlquery v1.3.0
 	github.com/apparentlymart/go-cidr v1.1.0
-	github.com/aws/smithy-go v1.19.0
+	github.com/aws/smithy-go v1.20.1
 	github.com/hashicorp/go-uuid v1.0.1
 	github.com/hashicorp/hcl/v2 v2.19.1
 	github.com/liamg/iamgo v0.0.9
