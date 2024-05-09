@@ -137,7 +137,7 @@ require (
 	github.com/zclconf/go-cty v1.14.4
 	github.com/zclconf/go-cty-yaml v1.0.3
 	golang.org/x/crypto v0.22.0
-	helm.sh/helm/v3 v3.14.2
+	helm.sh/helm/v3 v3.14.4
 	sigs.k8s.io/yaml v1.4.0
 )
 
