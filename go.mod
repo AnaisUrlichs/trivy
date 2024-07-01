@@ -6,8 +6,8 @@ toolchain go1.22.0
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.10.0
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.5.1
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.1
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.7.0
 	github.com/BurntSushi/toml v1.3.2
 	github.com/CycloneDX/cyclonedx-go v0.8.0
 	github.com/GoogleCloudPlatform/docker-credential-gcr v2.0.5+incompatible
@@ -107,11 +107,11 @@ require (
 	go.etcd.io/bbolt v1.3.9
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
-	golang.org/x/mod v0.16.0
-	golang.org/x/net v0.24.0
-	golang.org/x/sync v0.6.0
-	golang.org/x/term v0.19.0
-	golang.org/x/text v0.14.0
+	golang.org/x/mod v0.17.0
+	golang.org/x/net v0.26.0
+	golang.org/x/sync v0.7.0
+	golang.org/x/term v0.21.0
+	golang.org/x/text v0.16.0
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
 	google.golang.org/protobuf v1.34.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -136,7 +136,7 @@ require (
 	github.com/owenrumney/squealer v1.2.2
 	github.com/zclconf/go-cty v1.14.4
 	github.com/zclconf/go-cty-yaml v1.0.3
-	golang.org/x/crypto v0.22.0
+	golang.org/x/crypto v0.24.0
 	helm.sh/helm/v3 v3.14.2
 	sigs.k8s.io/yaml v1.4.0
 )
@@ -150,7 +150,7 @@ require (
 	dario.cat/mergo v1.0.0 // indirect
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230811130428-ced1acdcaa24 // indirect
 	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20230306123547-8075edf89bb0 // indirect
-	github.com/Azure/azure-sdk-for-go/sdk/internal v1.5.2 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/internal v1.8.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest v0.11.29 // indirect
@@ -395,9 +395,9 @@ require (
 	go.starlark.net v0.0.0-20230525235612-a134d8f9ddca // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/oauth2 v0.18.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-	golang.org/x/tools v0.19.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/api v0.172.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20240311173647-c811ad7063a7 // indirect
