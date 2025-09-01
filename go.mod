@@ -1,8 +1,6 @@
 module github.com/aquasecurity/trivy
 
-go 1.22
-
-toolchain go1.22.0
+go 1.23.0
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
@@ -110,7 +108,7 @@ require (
 	golang.org/x/mod v0.16.0
 	golang.org/x/net v0.24.0
 	golang.org/x/sync v0.6.0
-	golang.org/x/term v0.19.0
+	golang.org/x/term v0.34.0
 	golang.org/x/text v0.14.0
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
 	google.golang.org/protobuf v1.34.0
@@ -395,7 +393,7 @@ require (
 	go.starlark.net v0.0.0-20230525235612-a134d8f9ddca // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/oauth2 v0.18.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/sys v0.35.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/tools v0.19.0 // indirect
 	google.golang.org/api v0.172.0 // indirect
