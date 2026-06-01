@@ -1,8 +1,6 @@
 module github.com/aquasecurity/trivy
 
-go 1.22
-
-toolchain go1.22.0
+go 1.24
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
@@ -66,7 +64,7 @@ require (
 	github.com/knqyf263/go-rpmdb v0.0.0-20231008124120-ac49267ab4e1
 	github.com/knqyf263/nested v0.0.1
 	github.com/kylelemons/godebug v1.1.0
-	github.com/liamg/jfather v0.0.7
+	github.com/liamg/jfather v0.0.9
 	github.com/magefile/mage v1.15.0
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/masahiro331/go-disk v0.0.0-20220919035250-c8da316f91ac
@@ -97,7 +95,7 @@ require (
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.18.2
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.11.1
 	github.com/testcontainers/testcontainers-go v0.30.0
 	github.com/testcontainers/testcontainers-go/modules/localstack v0.28.0
 	github.com/tetratelabs/wazero v1.7.0
