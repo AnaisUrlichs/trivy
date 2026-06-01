@@ -758,8 +758,8 @@ github.com/aquasecurity/go-gem-version v0.0.0-20201115065557-8eed6fe000ce h1:QgB
 github.com/aquasecurity/go-gem-version v0.0.0-20201115065557-8eed6fe000ce/go.mod h1:HXgVzOPvXhVGLJs4ZKO817idqr/xhwsTcj17CLYY74s=
 github.com/aquasecurity/go-mock-aws v0.0.0-20240109054747-49e4b5da33cb h1:dNxUB2bSbiLGNYcXkbBKrrfuY96+dXhA9FahEFZ4THQ=
 github.com/aquasecurity/go-mock-aws v0.0.0-20240109054747-49e4b5da33cb/go.mod h1:iytBd25FZt3N6g+vGnNPO7BfgkV7HCEfIHyg8K/ldUw=
-github.com/aquasecurity/go-npm-version v0.0.0-20201110091526-0b796d180798 h1:eveqE9ivrt30CJ7dOajOfBavhZ4zPqHcZe/4tKp0alc=
-github.com/aquasecurity/go-npm-version v0.0.0-20201110091526-0b796d180798/go.mod h1:hxbJZtKlO4P8sZ9nztizR6XLoE33O+BkPmuYQ4ACyz0=
+github.com/aquasecurity/go-npm-version v0.0.2 h1:6sNIaeW4Hw8Xg51nPoD3VSo/5qmFSu0VL809iehEOvc=
+github.com/aquasecurity/go-npm-version v0.0.2/go.mod h1:DXyKqRe2yb83peANMjQr8dGDkHanEgoFv8BOQdWlSUQ=
 github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46 h1:vmXNl+HDfqqXgr0uY1UgK1GAhps8nbAAtqHNBcgyf+4=
 github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46/go.mod h1:olhPNdiiAAMiSujemd1O/sc6GcyePr23f/6uGKtthNg=
 github.com/aquasecurity/go-version v0.0.0-20201107203531-5e48ac5d022a/go.mod h1:9Beu8XsUNNfzml7WBf3QmyPToP1wm1Gj/Vc5UJKqTzU=
