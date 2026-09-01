@@ -1,8 +1,6 @@
 module github.com/aquasecurity/trivy
 
-go 1.22
-
-toolchain go1.22.0
+go 1.25
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
@@ -134,7 +132,7 @@ require (
 	github.com/liamg/memoryfs v1.6.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/owenrumney/squealer v1.2.2
-	github.com/zclconf/go-cty v1.14.4
+	github.com/zclconf/go-cty v1.19.0
 	github.com/zclconf/go-cty-yaml v1.0.3
 	golang.org/x/crypto v0.22.0
 	helm.sh/helm/v3 v3.14.2
@@ -176,6 +174,7 @@ require (
 	github.com/anchore/go-struct-converter v0.0.0-20221118182256-c68fdcfa2092 // indirect
 	github.com/antchfx/xpath v1.2.3 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
+	github.com/apparentlymart/go-textseg/v17 v17.0.1 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/aws/aws-sdk-go v1.51.25 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.2 // indirect
