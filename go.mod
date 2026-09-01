@@ -1,8 +1,6 @@
 module github.com/aquasecurity/trivy
 
-go 1.22
-
-toolchain go1.22.0
+go 1.23
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
@@ -43,7 +41,7 @@ require (
 	github.com/containerd/containerd v1.7.16
 	github.com/csaf-poc/csaf_distribution/v3 v3.0.0
 	github.com/docker/docker v26.0.2+incompatible
-	github.com/docker/go-connections v0.5.0
+	github.com/docker/go-connections v0.8.1
 	github.com/fatih/color v1.16.0
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/go-openapi/runtime v0.28.0
@@ -165,7 +163,7 @@ require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver/v3 v3.2.1 // indirect
 	github.com/Masterminds/squirrel v1.5.4 // indirect
-	github.com/Microsoft/go-winio v0.6.1 // indirect
+	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/Microsoft/hcsshim v0.11.4 // indirect
 	github.com/OneOfOne/xxhash v1.2.8 // indirect
 	github.com/ProtonMail/go-crypto v1.1.0-alpha.0 // indirect
@@ -397,7 +395,6 @@ require (
 	golang.org/x/oauth2 v0.18.0 // indirect
 	golang.org/x/sys v0.19.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-	golang.org/x/tools v0.19.0 // indirect
 	google.golang.org/api v0.172.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20240311173647-c811ad7063a7 // indirect
