@@ -135,7 +135,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/owenrumney/squealer v1.2.2
 	github.com/zclconf/go-cty v1.14.4
-	github.com/zclconf/go-cty-yaml v1.0.3
+	github.com/zclconf/go-cty-yaml v1.2.0
 	golang.org/x/crypto v0.22.0
 	helm.sh/helm/v3 v3.14.2
 	sigs.k8s.io/yaml v1.4.0
